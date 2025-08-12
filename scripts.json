@@ -1,0 +1,4 @@
+{
+  "deploy-admin.sh": "../ADMIN/deploy-admin.sh",
+  "deploy-dashboard.sh": "../DASHBOARD/deploy-dashboard.sh"
+}

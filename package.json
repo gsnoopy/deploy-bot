@@ -1,0 +1,19 @@
+{
+  "name": "discord-ec2-script-bot",
+  "version": "1.0.0",
+  "description": "Bot do Discord para executar scripts .sh na EC2",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["discord", "bot", "ec2", "shell", "script"],
+  "author": "awk_",
+  "license": "MIT"
+}
